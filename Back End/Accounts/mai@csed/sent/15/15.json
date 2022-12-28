@@ -1,0 +1,13 @@
+{
+  "subject": "km",
+  "body": "sss",
+  "sender": "mai@csed",
+  "receivers": [
+    "mai@csed"
+  ],
+  "priority": "1",
+  "attachments": [
+    "No Attachments"
+  ],
+  "id": "15"
+}

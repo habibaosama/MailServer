@@ -1,0 +1,13 @@
+{
+  "subject": "jjj",
+  "body": "jjjj",
+  "sender": "mai@csed",
+  "receivers": [
+    "maii@csed"
+  ],
+  "priority": "1",
+  "attachments": [
+    "000.jpg"
+  ],
+  "id": "12"
+}

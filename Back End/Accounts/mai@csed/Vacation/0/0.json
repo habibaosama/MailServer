@@ -1,0 +1,10 @@
+{
+  "subject": "hi",
+  "body": "bgrb",
+  "sender": "maii@csed",
+  "receivers": [
+    "mai@csed"
+  ],
+  "priority": "1",
+  "id": "4"
+}

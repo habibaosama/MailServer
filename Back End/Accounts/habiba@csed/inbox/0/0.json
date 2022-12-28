@@ -1,0 +1,10 @@
+{
+  "subject": "test",
+  "body": "ana geet",
+  "sender": "mai@csed",
+  "receivers": [
+    "habiba@csed"
+  ],
+  "priority": 0,
+  "id": "0"
+}

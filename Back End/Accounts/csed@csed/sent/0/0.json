@@ -1,0 +1,10 @@
+{
+  "subject": "yarab",
+  "body": " public static void main(String[] args) {  \n    LocalDateTime myDateObj \u003d LocalDateTime.now();  \n    System.out.println(\"Before Formatting: \"   myDateObj);  \n    DateTimeFormatter myFormatObj \u003d DateTimeFormatter.ofPattern(\"E, MMM dd yyyy HH:mm:ss\");  ",
+  "sender": "csed@csed",
+  "receivers": [
+    "mai@csed"
+  ],
+  "priority": 0,
+  "id": "0"
+}

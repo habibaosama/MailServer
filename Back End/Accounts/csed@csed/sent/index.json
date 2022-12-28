@@ -1,0 +1,1 @@
+[{"date":null,"receiver":"mai@csed","sender":"csed@csed","subject":"yarab","id":"0","body":" public static void main(String[] args) {  \n    LocalDateTime myDateObj = LocalDateTime.now();  \n    System.out.println(\"Before Formatting: \"   myDateObj);  \n    DateTimeFormatter myFormatObj = DateTimeFormatter.ofPattern(\"E, MMM dd yyyy HH:mm:ss\");  "}]

@@ -1,0 +1,10 @@
+{
+  "subject": "baba",
+  "body": "ana hena",
+  "sender": "osama@csed",
+  "receivers": [
+    "habiba@csed"
+  ],
+  "priority": 0,
+  "id": "0"
+}

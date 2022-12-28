@@ -1,0 +1,13 @@
+{
+  "subject": "wie",
+  "body": "hello",
+  "sender": "zeina@csed",
+  "receivers": [
+    "Dodo@csed"
+  ],
+  "priority": "4",
+  "attachments": [
+    "[object File]"
+  ],
+  "id": "0"
+}
